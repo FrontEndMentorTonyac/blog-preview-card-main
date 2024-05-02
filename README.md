@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Tonyac-create/blog-preview-card-main]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://blog-preview-card-main-o325k6926-angeles-projects.vercel.app/]
 
 ## My process
 
